@@ -1,0 +1,510 @@
+{
+  "Metadata": {
+    "title": "MIARADIA | Development and Environmental Governance in Madagascar",
+    "description": "MIARADIA is an association committed to socio-economic development, local governance and environmental protection in Madagascar.",
+    "keywords": "MIARADIA, Madagascar, development, environment, governance, NGO",
+    "author": "MIARADIA Association"
+  },
+  "Navbar": {
+    "org_name": "MIARADIA",
+    "logo_alt": "MIARADIA Logo",
+    "home": "Home",
+    "about": "About",
+    "activities": "Activities",
+    "projects": "Projects",
+    "cofav": "COFAV",
+    "team": "Team",
+    "contact": "Contact",
+    "donate": "Support Us",
+    "subtitle": "Development and local expertise",
+    "menu_open": "Open menu",
+    "menu_close": "Close menu"
+  },
+  "Hero": {
+    "eyebrow": "NGO · Madagascar · Since 2002",
+    "title": "MIARADIA Association of Intellectuals",
+    "subtitle": "Working together for development and progress in Madagascar",
+    "description": "MIARADIA is an association engaged in socio-economic development, training, local governance support and employment promotion in Madagascar since 2002.",
+    "cta_mission": "Discover our mission",
+    "cta_contact": "Contact us",
+    "image_alt": "MIARADIA field action",
+    "stat_1_value": "2002",
+    "stat_1_label": "Year founded",
+    "stat_2_value": "12+",
+    "stat_2_label": "Projects delivered",
+    "stat_3_value": "COFAV",
+    "stat_3_label": "Active program 2026"
+  },
+  "History": {
+    "eyebrow": "Our story",
+    "title": "History",
+    "p1": "The MIARADIA Association of Intellectuals was created on June 17, 2002 in Fianarantsoa under Ordinance No. 60-133.",
+    "p2": "It was founded by professionals and intellectuals committed to the socio-economic development of Madagascar.",
+    "p3": "Since its creation, MIARADIA has supported local authorities, organizations and partners in implementing sustainable development projects.",
+    "image_alt": "MIARADIA history in Madagascar"
+  },
+  "Mission": {
+    "eyebrow": "Our commitment",
+    "title": "Our Mission",
+    "main_goal": "To contribute to the socio-economic, cultural and environmental development of Madagascar.",
+    "description": "MIARADIA works to support local communities, provide training, promote employment and strengthen the capacities of local actors.",
+    "sub_goals_intro": "Our specific objectives are:",
+    "goal_1": "Reduce unemployment and promote self-employment among intellectuals.",
+    "goal_2": "Enhance members' skills and professional experience.",
+    "goal_3": "Support local authorities in planning and governance.",
+    "goal_4": "Promote sustainable and community development projects.",
+    "image_alt": "MIARADIA community meeting"
+  },
+  "Activities": {
+    "eyebrow": "Areas of work",
+    "title": "Activities & Fields of Action",
+    "subtitle": "Our actions focus on training, local development and community project support",
+    "tag_1": "Local Gov.",
+    "tag_2": "Training",
+    "tag_3": "Projects",
+    "tag_4": "Studies",
+    "tag_5": "Capacity",
+    "tag_6": "Employment",
+    "card_1_title": "Local Government Support",
+    "card_1_desc": "Assisting municipalities in developing local development plans and strategies.",
+    "card_2_title": "Professional Training",
+    "card_2_desc": "Organizing technical and professional training in various fields.",
+    "card_3_title": "Project Design",
+    "card_3_desc": "Support in designing, structuring and financing micro and community projects.",
+    "card_4_title": "Studies & Analysis",
+    "card_4_desc": "Conducting socio-economic and environmental studies and project evaluations.",
+    "card_5_title": "Capacity Building",
+    "card_5_desc": "Training in governance, planning, management and local development.",
+    "card_6_title": "Employment Promotion",
+    "card_6_desc": "Supporting employment creation and entrepreneurship development."
+  },
+  "Projects": {
+    "eyebrow": "Impact & funding",
+    "title": "Services and Funding History",
+    "subtitle": "Track record of MIARADIA projects in governance, conservation, community development and environmental law enforcement.",
+    "client_label": "Donor / Client",
+    "locations_label": "Areas",
+    "amount_label": "{amount} MGA",
+    "current_grant_badge": "Active Grant 2026 — COFAV",
+    "categories": {
+      "Governance": "Governance",
+      "Conservation": "Conservation",
+      "Development": "Development",
+      "Health": "Health",
+      "LawEnforcement": "Law Enforcement"
+    },
+    "items": {
+      "pcd-2002": {
+        "title": "Training and PCD Development",
+        "description": "Training and support for developing communal development plans (PCD) in 15 rural communes of the former Fianarantsoa province."
+      },
+      "pcd-2003": {
+        "title": "PCD & PDV + Natural Resource Transfer Support",
+        "description": "Support for developing communal development plans and natural resource management transfer in several districts."
+      },
+      "transfer-2006": {
+        "title": "Natural Resource Management Transfer",
+        "description": "Support for developing management transfer contracts for 4 NAP base communities."
+      },
+      "org-2008": {
+        "title": "Farmer Organization Strengthening",
+        "description": "Capacity building for 10 farmer organizations benefiting from MPI sub-projects."
+      },
+      "pact-feasibility-2010": {
+        "title": "Conservation Pact Feasibility Study",
+        "description": "Feasibility study of the Conservation Pact at 7 COBA sites."
+      },
+      "pact-impl-2011": {
+        "title": "Conservation Pact Implementation",
+        "description": "Support for implementing the Conservation Pact for 5 COBA."
+      },
+      "gef-2011": {
+        "title": "Community Natural Resource Management",
+        "description": "Support for MIKEA forest zone management transfer and COBA strengthening."
+      },
+      "nutrition-2013": {
+        "title": "Nutrition and Community Services Program",
+        "description": "Management and implementation of nutrition services in Haute Matsiatra region."
+      },
+      "health-2018": {
+        "title": "Community Health and Nutrition",
+        "description": "Intervention in PARN project areas to improve nutritional outcomes."
+      },
+      "pcd-2018": {
+        "title": "Communal Development Plans (PCD)",
+        "description": "Development of communal development plans in several rural communes."
+      },
+      "sage-2020": {
+        "title": "Environmental Management Plan (SAGE)",
+        "description": "Supervision of the environmental management plan for community environmental governance."
+      },
+      "cofav-2026": {
+        "title": "Law Enforcement & COFAV Protection Program",
+        "description": "Funding for environmental law enforcement and COFAV forest corridor protection."
+      }
+    }
+  },
+  "Team": {
+    "eyebrow": "Governance",
+    "title": "Our Team",
+    "subtitle": "A multidisciplinary team of experts committed to Madagascar's development",
+    "categories": {
+      "Management": "Management",
+      "Technical": "Technical",
+      "Field": "Field",
+      "Support": "Support"
+    },
+    "status": {
+      "active": "Active",
+      "available": "Available",
+      "former": "Former member"
+    },
+    "members": {
+      "charles": {
+        "role": "Executive Coordinator",
+        "expertise": ["Local governance", "Risk management", "Planning", "Monitoring & evaluation"]
+      },
+      "michel": {
+        "role": "Secretary General",
+        "expertise": ["Administration", "Finance", "Microfinance", "Project management"]
+      },
+      "christine": {
+        "role": "Administrative Assistant",
+        "expertise": ["Accounting", "Administration", "Community health"]
+      },
+      "louis": {
+        "role": "Infrastructure Manager",
+        "expertise": ["Construction", "Work supervision", "Technical studies"]
+      }
+    }
+  },
+  "Cofav": {
+    "eyebrow": "Active Project",
+    "title": "Strengthening Law Enforcement for COFAV Protection",
+    "subtitle": "Project funded by Conservation Allies to protect forest resources.",
+
+    "grant_amount": "Conservation Allies Funding",
+    "grant_active": "Active Project",
+    "grant_location": "Haute Matsiatra - Ihorombe - Atsimo Atsinanana",
+
+    "actions": {
+      "brigade": {
+        "title": "Conservation Brigade",
+        "description": "Deployment of conservation brigades inside COFAV and its core conservation zones."
+      },
+
+      "dissuasion": {
+        "title": "Illegal Occupant Deterrence",
+        "description": "Awareness raising and deterrence actions to reduce illegal occupation and environmental degradation."
+      },
+
+      "community": {
+        "title": "Community Mobilization",
+        "description": "General policing tours and community engagement to strengthen conservation awareness."
+      },
+
+      "dialogue": {
+        "title": "Community Dialogue",
+        "description": "Facilitating discussions with local communities to identify sustainable conservation solutions."
+      },
+
+      "patrol": {
+        "title": "Forest Patrols",
+        "description": "Day and night patrols along strategic routes to monitor illegal forest product trafficking."
+      },
+
+      "enforcement": {
+        "title": "Law Enforcement",
+        "description": "Detection of violations, prosecution of forest offenses and enforcement of environmental regulations."
+      }
+    }
+  },
+  "Contact": {
+    "eyebrow": "Get in touch",
+    "title": "Contact Us",
+    "subtitle": "For partnership inquiries, information or collaboration, our team will respond as soon as possible.",
+    "firstname": "First Name",
+    "lastname": "Last Name",
+    "email": "Email",
+    "subject": "Subject",
+    "message": "Message",
+    "placeholder_firstname": "Your first name",
+    "placeholder_lastname": "Your last name",
+    "placeholder_email": "your.email@example.com",
+    "placeholder_subject": "Subject of your request",
+    "placeholder_message": "Describe your needs or project...",
+    "submit": "Send Message",
+    "opening_hours": "Opening Hours",
+    "open_24_7": "Available by appointment",
+    "success_title": "Message sent!",
+    "success_message": "Thank you for contacting us. We will reply shortly.",
+    "error_message": "An error occurred. Please try again.",
+    "sending": "Sending...",
+    "form_subject": "New message from MIARADIA website",
+    "image_alt": "MIARADIA field base"
+  },
+  "ImpactMetrics": {
+    "eyebrow": "Our Impact",
+    "title": "Measuring Our Success",
+    "subtitle": "Real numbers showing our commitment to Madagascar's development and environmental conservation.",
+    "years_experience": "Years of Experience",
+    "projects_completed": "Projects Completed",
+    "regions_cofav": "Regions Covered",
+    "communes_served": "Communes Served",
+    "current_funding_mga": "Current Funding (MGA)",
+    "active_partnerships": "Partnerships",
+    "cta_title": "Ready to Partner with Us?",
+    "cta_description": "Join us in creating sustainable impact across Madagascar.",
+    "cta_button": "Start a Conversation"
+  },
+  "InteractiveTimeline": {
+    "eyebrow": "Our Journey",
+    "title": "Interactive Project Timeline",
+    "subtitle": "Explore our project history and see how we've grown from local initiatives to international partnerships.",
+    "filter_all": "All Projects",
+    "featured_project": "Featured",
+    "cta_title": "Interested in Our Work?",
+    "cta_description": "Explore detailed project documentation.",
+    "cta_button": "View All Projects"
+  },
+  "ExpertNetwork": {
+    "eyebrow": "Expert Network",
+    "title": "Professional Excellence Network",
+    "subtitle": "Access to Madagascar's leading experts in development, governance, conservation, and community health.",
+    "areas_title": "Areas of Expertise",
+    "experts_count": "experts",
+    "featured_experts": "Featured Experts",
+    "filter_by_availability": "Filter by availability",
+    "filter_all": "All",
+    "contact_expert": "Contact",
+    "availability": {
+      "available": "Available",
+      "consulting": "Consulting",
+      "project_based": "Project-based"
+    },
+    "areas": {
+      "governance": {
+        "name": "Local Governance",
+        "description": "Municipal planning, policy development, and institutional strengthening."
+      },
+      "conservation": {
+        "name": "Conservation",
+        "description": "Forest protection, biodiversity monitoring, and environmental law enforcement."
+      },
+      "development": {
+        "name": "Community Development",
+        "description": "Rural development, capacity building, and project management."
+      },
+      "health": {
+        "name": "Health & Nutrition",
+        "description": "Community health programs, nutrition services, and health system strengthening."
+      },
+      "research": {
+        "name": "Research & Analysis",
+        "description": "Impact assessment, data analysis, and evidence-based programming."
+      }
+    },
+    "experts": {
+      "expert_1": {
+        "title": "Environmental Law Specialist"
+      },
+      "expert_2": {
+        "title": "GIS & Remote Sensing Expert"
+      },
+      "expert_3": {
+        "title": "Community Health Director"
+      },
+      "expert_4": {
+        "title": "Governance Advisor"
+      },
+      "expert_5": {
+        "title": "Conservation Biologist"
+      },
+      "expert_6": {
+        "title": "Project Management Lead"
+      }
+    },
+    "stats": {
+      "total_experts": "Total Experts",
+      "specializations": "Specializations",
+      "projects_completed": "Projects Completed",
+      "availability": "Availability"
+    }
+  },
+  "Partners": {
+    "eyebrow": "Strategic Alliances",
+    "title": "Our Global Partners",
+    "subtitle": "Collaborative partnerships with leading international organizations, donors, and government agencies.",
+    "filter_all": "All Partners",
+    "featured_partner": "Featured",
+    "since": "Since",
+    "key_projects": "Key Projects",
+    "more": "more",
+    "view_projects": "View Projects",
+    "types": {
+      "donor": "Donor",
+      "implementation": "Implementation",
+      "technical": "Technical",
+      "government": "Government"
+    },
+    "stats": {
+      "active_partners": "Partners",
+      "years_collaboration": "Years of Collaboration",
+      "current_funding": "Current Funding",
+      "joint_projects": "Joint Projects"
+    },
+    "partners": {
+      "conservation_allies": {
+        "description": "Leading the COFAV forest corridor protection program with innovative law enforcement approaches."
+      },
+      "conservation_international": {
+        "description": "Long-term partnership in biodiversity conservation and community-based natural resource management."
+      },
+      "undp_gef": {
+        "description": "Global Environment Facility projects focusing on ecosystem management and sustainable development."
+      },
+      "fid": {
+        "description": "National development fund supporting rural infrastructure and community development initiatives."
+      },
+      "usaid_eri": {
+        "description": "Environmental and rural development programs with focus on natural resource governance."
+      },
+      "page_giz": {
+        "description": "German development cooperation supporting good governance and decentralization processes."
+      },
+      "orn_haute_matsiatra": {
+        "description": "Regional health office partnership for nutrition and community health programs."
+      },
+      "psdr_upep": {
+        "description": "Rural development support program focusing on farmer organization capacity building."
+      }
+    },
+    "cta_title": "Become a Partner",
+    "cta_description": "Join our network of partners working to create lasting impact in Madagascar. Together, we can achieve more.",
+    "cta_button": "Explore Partnership"
+  },
+  "GeographicMap": {
+    "eyebrow": "Geographic Coverage",
+    "title": "Our Intervention Areas",
+    "subtitle": "Interactive map showing MIARADIA's project locations and impact across Madagascar's regions.",
+    "map_title": "Madagascar - MIARADIA Interventions",
+    "total_projects": "Total Projects",
+    "total_communes": "Communes Covered",
+    "regions_covered": "Regions Covered",
+    "projects": "Projects",
+    "projects_short": "projects",
+    "communes": "Communes",
+    "communes_short": "communes",
+    "key_projects": "Key Projects",
+    "select_area_title": "Select an Area",
+    "select_area_description": "Click on a pin to view detailed information about our interventions in that region.",
+    "close_details": "Close Details",
+    "all_areas_title": "All Intervention Areas",
+    "status": {
+      "active": "Active",
+      "completed": "Completed",
+      "planned": "Planned"
+    },
+    "areas": {
+      "fianarantsoa": {
+        "description": "Our headquarters region with ongoing training programs, PCD development, and COFAV corridor protection activities."
+      },
+      "cofav_corridor": {
+        "description": "Forest conservation and law enforcement program in the COFAV corridor (Ambositra-Vondrozo), covering Haute Matsiatra, Ihorombe, and Atsimo Atsinanana regions."
+      },
+      "ikongo": {
+        "description": "Completed conservation pact implementation and community-based natural resource management strengthening."
+      },
+      "mikea": {
+        "description": "UNDP/GEF funded forest management project with focus on community-based conservation approaches."
+      },
+      "vohibato": {
+        "description": "Multi-year nutrition and community health programs serving rural populations in Haute Matsiatra region."
+      },
+      "morombe": {
+        "description": "Rural development and communal development planning with German cooperation support (PAGE-GIZ)."
+      },
+      "ankazoabo": {
+        "description": "Environmental management and governance program focusing on sustainable community development."
+      }
+    }
+  },
+  "FieldGallery": {
+    "eyebrow": "Field Documentation",
+    "title": "Impact in Action",
+    "subtitle": "Visual documentation of our field work, community engagement, and conservation efforts across Madagascar.",
+    "filter_all": "All Photos",
+    "total_photos": "Total Photos",
+    "locations_covered": "Locations Covered",
+    "years_documented": "Years Documented",
+    "load_more": "Load More Photos",
+    "categories": {
+      "fieldwork": "Field Work",
+      "training": "Training",
+      "community": "Community",
+      "conservation": "Conservation",
+      "infrastructure": "Infrastructure"
+    },
+    "items": {
+      "cofav_patrol_1": {
+        "title": "COFAV Forest Patrol",
+        "description": "Law enforcement team conducting routine patrol in the COFAV corridor to prevent illegal logging and monitor forest health."
+      },
+      "community_meeting_1": {
+        "title": "Community Planning Meeting",
+        "description": "Village assembly discussing communal development plan priorities and resource allocation with MIARADIA facilitators."
+      },
+      "training_session_1": {
+        "title": "Technical Training Session",
+        "description": "Capacity building workshop on project management and financial literacy for local community organizations."
+      },
+      "forest_monitoring": {
+        "title": "Forest Monitoring Activities",
+        "description": "GIS mapping and forest health assessment using GPS technology and field data collection protocols."
+      },
+      "health_program": {
+        "title": "Community Health Program",
+        "description": "Nutrition education and health service delivery in rural communities of Haute Matsiatra region."
+      },
+      "infrastructure_dev": {
+        "title": "Infrastructure Development",
+        "description": "Rural infrastructure construction project improving access to clean water and community facilities."
+      },
+      "field_research": {
+        "title": "Field Research & Data Collection",
+        "description": "Impact assessment and socio-economic research activities supporting evidence-based project design."
+      },
+      "drone_survey": {
+        "title": "Drone Surveillance Operations",
+        "description": "Advanced aerial monitoring using drone technology for forest protection and deforestation tracking."
+      }
+    }
+  },
+  "Footer": {
+    "description": "MIARADIA supports socio-economic development, training and community projects in Madagascar since 2002.",
+    "grant_title": "Active Grant: Conservation Allies",
+    "grant_description": "COFAV corridor protection - forest conservation and law enforcement in the forest conservation domain across Haute Matsiatra, Ihorombe, and Atsimo Atsinanana regions.",
+    "impact_title": "Creating Lasting Impact Across Madagascar",
+    "quick_links": "Quick Links",
+    "follow_us": "Follow Us",
+    "newsletter_title": "Stay Updated",
+    "newsletter_description": "Get the latest news from our field work and impact stories.",
+    "email_placeholder": "Enter your email",
+    "contact_info": "Contact Information",
+    "address_title": "Address",
+    "email_title": "Email",
+    "phone_title": "Phone",
+    "location": "Fianarantsoa, Madagascar",
+    "email": "assomiaradia@gmail.com",
+    "phone": "+261 32 / 034 / 033",
+    "founded": "MIARADIA Association (2002)",
+    "registration_info": "Registered NGO under Ordinance No. 60-133",
+    "copyright": "© {year} MIARADIA Association.",
+    "all_rights_reserved": "All rights reserved. Proudly serving Madagascar's development.",
+    "privacy": "Privacy Policy",
+    "legal": "Legal Notice",
+    "cgu": "Terms of Use",
+    "accessibility": "Accessibility",
+    "language": "Language"
+  }
+}
