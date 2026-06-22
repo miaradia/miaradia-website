@@ -25,7 +25,6 @@ const categoryVariants: Record<
   Conservation: 'green',
   Development: 'orange',
   Health: 'purple',
-  LawEnforcement: 'red',
 };
 
 export default function ProjectTimeline({ projects, labels }: ProjectTimelineProps) {
